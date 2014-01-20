@@ -1,0 +1,44 @@
+a {
+  text-decoration: none;
+}
+.ff_btn {
+  border: 0 none;
+  border-radius: 2px 2px 2px 2px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial,sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 20px;
+  margin-bottom: 0;
+  margin-top: 10px;
+  padding: 7px 10px;
+  text-transform: none;
+  transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -webkit-transition: all 0.3s ease 0s;
+  text-align: center;
+}
+.btn_red{background:#e56c69}
+.btn_green{background:#1b7e5a}
+.btn_blue{background:#2489c5}
+.btn_aero{background:#9cc2cb}
+.btn_grey{background:#73716e}
+.btn_yellow{background:#fc3}
+.btn_pink{background:#a77a94}
+.btn_purple{background:#6a5a8c}
+.btn_orange{background:#f70}
+.btn_large {
+  font-size: 20px;
+  padding: 12px 50px;
+  line-height: 40px;
+}
+.btn_medium {
+  font-size: 16px;
+  padding: 10px 30px;
+  line-height: 30px;
+}
+.ff_btn:hover {
+  background: #000;
+}
