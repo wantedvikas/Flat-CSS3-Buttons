@@ -40,5 +40,8 @@ a {
   line-height: 30px;
 }
 .ff_btn:hover {
-  background: #000;
+  background: #fff;
+color:#000;
+	border : 2px solid black ;
+
 }
